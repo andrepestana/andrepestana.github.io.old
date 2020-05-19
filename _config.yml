@@ -1,0 +1,81 @@
+# Site settings
+title: Andre Pestana
+description: >-
+  Software Developer ...
+lang: en-US
+timezone: PDT
+image: assets/img/avatar.jpg # This image used for Open Graph more info https://ogp.me/
+repo: https://github.com/andrepestana
+mode: dark # default theme "dark" | "light"
+
+# Profile settings
+author:
+  name: Andre Pestana
+  bio: >-
+    Software Developer 
+  username: andrepestana
+  email: andrepestana@gmail.com
+  avatar: /assets/img/avatar.jpg
+
+# Url settings
+url: "https://andrepestana.github.io/"
+baseurl:
+permalink: /:title/
+google_analytics:
+fb_appid:
+
+# Collection setting
+collections:
+  posts:
+    output: true
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  syntax_highlighter: rouge
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: post
+      comments: false
+
+# Jekyll Compose default front matter
+jekyll_compose:
+  post_default_front_matter:
+    modified:
+    tags: []
+    description:
+  draft_default_front_matter:
+    modified:
+    tags: []
+    description:
+
+# Build settings
+sass:
+  style: compressed
+
+include:
+  - _redirects
+  - .htaccess
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - CHANGELOG.md
+  - README.md
+  - node_modules
+  - CODE_OF_CONDUCT.md
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sass-converter
+  - jekyll-sitemap
+  - jekyll-postfiles
+  - jekyll-font-awesome-sass

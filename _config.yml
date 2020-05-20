@@ -78,4 +78,3 @@ plugins:
   - jekyll-sass-converter
   - jekyll-sitemap
   - jekyll-postfiles
-  - jekyll-font-awesome-sass

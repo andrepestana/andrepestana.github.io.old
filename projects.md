@@ -8,7 +8,8 @@ comments: false
 
 #### Pestana World
 
-It's just a simple arcade game I started developing to learn Phaser3 and have some fun.
+[![alt text](/projects/pestana_world.png "Pestana World"){:height="300px"}](/pestana-world/)
+{: style="text-align: center"}
 
-<a href="https://andrepestana.github.io/pestana-world/">Click here to play</a>
+It's just a simple arcade game I started developing to learn Phaser3 and have some fun. [Click here to play](/pestana-world/)
 

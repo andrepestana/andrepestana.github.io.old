@@ -6,20 +6,17 @@ excerpt: Some of my personal projects
 comments: false
 ---
 # NodeJS auth api + VueJS auth frontend
-![alt text](/projects/vue_auth1.png "VueJS Auth Frontend signin"){:height="300px"} 
-{: style="text-align: center"}
-
-![alt text](/projects/vue_auth2.png "VueJS Auth Frontend user session"){:height="300px"} 
+![alt text](/projects/vue_auth1.png "VueJS Auth Frontend signin"){:height="200px"} ![alt text](/projects/vue_auth2.png "VueJS Auth Frontend user session"){:width="400px"} 
 {: style="text-align: center"}
 
 This is a api for authentication and authorization with NodeJS. This api has the following features:
-- signup (create a user for the application)
-- signin (authenticate and create a session through Jason Web Token (jwt))
+- signup (creates a new user for the application)
+- signin (authenticates and creates a session through Jason Web Token (jwt))
 - persistent session in the browser (if the user closes the browser and reopen their session is still ok until the token expiration)
 - user email confirmation (user needs to confirm their email for the application to trust them)
 - change password (an authenticate user can change their password any time)
 - list all sessions for the current user (an authenticate user can see all their current sessions)
-- logout from sessions in other devices (log out any current session from the current one)
+- logout from sessions in other devices (logs out any current session from the current one)
 - recover lost password through email with link to change password (the user can ask for a link sent to their email to change password)
 
 Source code: 

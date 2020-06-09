@@ -11,7 +11,7 @@ comments: false
 
 This is a api for authentication and authorization with NodeJS. This api has the following features:
 - signup (creates a new user for the application)
-- signin (authenticates and creates a session through Jason Web Token (jwt))
+- signin (authenticates and creates a session through Json Web Token (jwt))
 - persistent session in the browser (if the user closes the browser and reopen their session is still ok until the token expiration)
 - user email confirmation (user needs to confirm their email for the application to trust them)
 - change password (an authenticate user can change their password any time)

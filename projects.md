@@ -23,6 +23,7 @@ Source code:
 - Api: <https://github.com/andrepestana/nodejs_auth>
 - Frontend: <https://github.com/andrepestana/vue_auth>
 
+- Live demo: <http://138.197.154.122/>
 
 * * *
 

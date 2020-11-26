@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.e9a165e4.chunk.css",
-    "main.js": "/static/js/main.966e56f5.chunk.js",
-    "main.js.map": "/static/js/main.966e56f5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.cd076213.js",
-    "runtime-main.js.map": "/static/js/runtime-main.cd076213.js.map",
-    "static/js/2.50d33e0a.chunk.js": "/static/js/2.50d33e0a.chunk.js",
-    "static/js/2.50d33e0a.chunk.js.map": "/static/js/2.50d33e0a.chunk.js.map",
-    "static/js/3.c0ed0754.chunk.js": "/static/js/3.c0ed0754.chunk.js",
-    "static/js/3.c0ed0754.chunk.js.map": "/static/js/3.c0ed0754.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.e9a165e4.chunk.css.map": "/static/css/main.e9a165e4.chunk.css.map",
-    "static/js/2.50d33e0a.chunk.js.LICENSE.txt": "/static/js/2.50d33e0a.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/KomikaTitle-Paint.0e6b7149.ttf",
-    "static/media/Speech_balloon_distorted2.00adc8af.png": "/static/media/Speech_balloon_distorted2.00adc8af.png",
-    "static/media/avatar.ca2c3afe.jpg": "/static/media/avatar.ca2c3afe.jpg",
-    "static/media/Frame2.css": "/static/media/flying-saucer2.3a8bff4c.png",
-    "static/media/Title.css": "/static/media/pow.6daa3de7.png",
-    "static/media/Frame3.css": "/static/media/pow_projects.94769729.svg"
+    "main.css": "https://andrepestana.github.io/test/static/css/main.890297ef.chunk.css",
+    "main.js": "https://andrepestana.github.io/test/static/js/main.966e56f5.chunk.js",
+    "main.js.map": "https://andrepestana.github.io/test/static/js/main.966e56f5.chunk.js.map",
+    "runtime-main.js": "https://andrepestana.github.io/test/static/js/runtime-main.7479dbbe.js",
+    "runtime-main.js.map": "https://andrepestana.github.io/test/static/js/runtime-main.7479dbbe.js.map",
+    "static/js/2.50d33e0a.chunk.js": "https://andrepestana.github.io/test/static/js/2.50d33e0a.chunk.js",
+    "static/js/2.50d33e0a.chunk.js.map": "https://andrepestana.github.io/test/static/js/2.50d33e0a.chunk.js.map",
+    "static/js/3.c0ed0754.chunk.js": "https://andrepestana.github.io/test/static/js/3.c0ed0754.chunk.js",
+    "static/js/3.c0ed0754.chunk.js.map": "https://andrepestana.github.io/test/static/js/3.c0ed0754.chunk.js.map",
+    "index.html": "https://andrepestana.github.io/test/index.html",
+    "static/css/main.890297ef.chunk.css.map": "https://andrepestana.github.io/test/static/css/main.890297ef.chunk.css.map",
+    "static/js/2.50d33e0a.chunk.js.LICENSE.txt": "https://andrepestana.github.io/test/static/js/2.50d33e0a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "https://andrepestana.github.io/test/static/media/KomikaTitle-Paint.0e6b7149.ttf",
+    "static/media/Speech_balloon_distorted2.00adc8af.png": "https://andrepestana.github.io/test/static/media/Speech_balloon_distorted2.00adc8af.png",
+    "static/media/avatar.ca2c3afe.jpg": "https://andrepestana.github.io/test/static/media/avatar.ca2c3afe.jpg",
+    "static/media/Frame2.css": "https://andrepestana.github.io/test/static/media/flying-saucer2.3a8bff4c.png",
+    "static/media/Title.css": "https://andrepestana.github.io/test/static/media/pow.6daa3de7.png",
+    "static/media/Frame3.css": "https://andrepestana.github.io/test/static/media/pow_projects.94769729.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cd076213.js",
+    "static/js/runtime-main.7479dbbe.js",
     "static/js/2.50d33e0a.chunk.js",
-    "static/css/main.e9a165e4.chunk.css",
+    "static/css/main.890297ef.chunk.css",
     "static/js/main.966e56f5.chunk.js"
   ]
 }
